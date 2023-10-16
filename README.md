@@ -1,6 +1,6 @@
 ## Membuat Ordered List dan Unordered List
 
-![F1](../foto/F1.png)
+![F1](lab3web/foto/F1.png)
 
 ## Membuat Description List
 
